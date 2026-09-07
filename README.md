@@ -1,3 +1,5 @@
+Contributors :- @RiddhiAgrawal , @MrigajShaw and @AnushreeChoudhary
+
 # brand-ai-readiness-audit
 
 An Agent Skill Marketplace that audits any public website for **AI
